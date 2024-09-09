@@ -1,3 +1,3 @@
 console.log('idex.js');
-console.log('version 2');
-console.log("index 2 2 ");
+console.log('version 3');
+console.log("index 3 3 ");
