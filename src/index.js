@@ -1,3 +1,2 @@
-console.log('idex.js');
-console.log('version 3');
-console.log("index 3 3 ");
+console.log('idex.js')
+console.log('version 1 updated using 4')
