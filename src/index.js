@@ -1,2 +1,2 @@
 console.log('idex.js')
-console.log('version 1 updated using 4')
+console.log('version 6')
